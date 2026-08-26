@@ -1,0 +1,6 @@
+{
+  "name": "NEXORA AI",
+  "description": "A unified AI workspace and productivity platform built for data-rich environments with multi-view SaaS workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
