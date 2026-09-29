@@ -318,7 +318,7 @@ print(category_revenue.head(3))`
   {
     id: 'msg-4',
     sender: 'ai',
-    text: '**Executive Summary: Q3 Performance Overview**\n\nQ3 delivered strong operational momentum with **$8.5M total revenue** (+16.4% YoY), primarily accelerated by Enterprise Cloud Infrastructure ($4.2M) and Security Modules ($2.8M). Operational efficiency improved by **12%**, reducing overall customer acquisition cost by **$40/seat**.\n\n*Strategic Recommendations:*\n1. Double down on security module add-ons during Q4 renewal cycles.\n2. Standardize automated shader pipelines to preserve 99.98% SLA margins.\n3. Deploy the autonomous data sync agent across all enterprise clusters.',
+    text: 'Executive Summary: Q3 Performance Overview\n\nQ3 delivered strong operational momentum with $8.5M total revenue (+16.4% YoY), primarily accelerated by Enterprise Cloud Infrastructure ($4.2M) and Security Modules ($2.8M). Operational efficiency improved by 12%, reducing overall customer acquisition cost by $40/seat.\n\nStrategic Recommendations:\n1. Double down on security module add-ons during Q4 renewal cycles.\n2. Standardize automated shader pipelines to preserve 99.98% SLA margins.\n3. Deploy the autonomous data sync agent across all enterprise clusters.',
     timestamp: '10:45 AM'
   }
 ];
